@@ -62,7 +62,7 @@ city = st.selectbox(
         placeholder = "Select your city",
         )
 
-button =st.button(
-        lablel = "Register",
-        key ="register_button",
+button = st.button(
+        label = "Register",
+        key="register_button",
 )
