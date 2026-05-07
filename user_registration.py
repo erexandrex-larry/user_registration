@@ -65,3 +65,4 @@ city = st.selectbox(
 button =st.button(
         lablel = "Register",
         key ="register_button",
+)
